@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\bin\Debug\ConversordeMoeda.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\bin\Debug\ConversordeMoeda.exe
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\bin\Debug\ConversordeMoeda.pdb
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\obj\Debug\ConversordeMoeda.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\obj\Debug\ConversordeMoeda.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\obj\Debug\ConversordeMoeda.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\obj\Debug\ConversordeMoeda.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\obj\Debug\ConversordeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\obj\Debug\ConversordeMoeda.exe
+C:\Users\gustavo.ccorreia1\source\repos\ConversordeMoeda\ConversordeMoeda\obj\Debug\ConversordeMoeda.pdb

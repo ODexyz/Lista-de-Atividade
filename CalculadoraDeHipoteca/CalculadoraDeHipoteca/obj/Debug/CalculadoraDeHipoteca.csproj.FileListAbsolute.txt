@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\bin\Debug\CalculadoraDeHipoteca.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\bin\Debug\CalculadoraDeHipoteca.exe
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\bin\Debug\CalculadoraDeHipoteca.pdb
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\obj\Debug\CalculadoraDeHipoteca.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\obj\Debug\CalculadoraDeHipoteca.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\obj\Debug\CalculadoraDeHipoteca.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\obj\Debug\CalculadoraDeHipoteca.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\obj\Debug\CalculadoraDeHipoteca.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\obj\Debug\CalculadoraDeHipoteca.exe
+C:\Users\gustavo.ccorreia1\source\repos\CalculadoraDeHipoteca\CalculadoraDeHipoteca\obj\Debug\CalculadoraDeHipoteca.pdb

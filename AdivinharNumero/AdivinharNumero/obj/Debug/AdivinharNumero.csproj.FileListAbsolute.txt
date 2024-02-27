@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\bin\Debug\AdivinharNumero.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\bin\Debug\AdivinharNumero.exe
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\bin\Debug\AdivinharNumero.pdb
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\obj\Debug\AdivinharNumero.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\obj\Debug\AdivinharNumero.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\obj\Debug\AdivinharNumero.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\obj\Debug\AdivinharNumero.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\obj\Debug\AdivinharNumero.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\obj\Debug\AdivinharNumero.exe
+C:\Users\gustavo.ccorreia1\source\repos\AdivinharNumero\AdivinharNumero\obj\Debug\AdivinharNumero.pdb

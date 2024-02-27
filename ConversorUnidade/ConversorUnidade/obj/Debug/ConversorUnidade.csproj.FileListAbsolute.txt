@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\bin\Debug\ConversorUnidade.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\bin\Debug\ConversorUnidade.exe
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\bin\Debug\ConversorUnidade.pdb
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\obj\Debug\ConversorUnidade.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\obj\Debug\ConversorUnidade.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\obj\Debug\ConversorUnidade.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\obj\Debug\ConversorUnidade.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\obj\Debug\ConversorUnidade.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\obj\Debug\ConversorUnidade.exe
+C:\Users\gustavo.ccorreia1\source\repos\ConversorUnidade\ConversorUnidade\obj\Debug\ConversorUnidade.pdb

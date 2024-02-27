@@ -1,0 +1,10 @@
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe.config
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.AssemblyReference.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.Form1.resources
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.Properties.Resources.resources
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.GenerateResource.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+C:\Users\gustavo.ccorreia1\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb

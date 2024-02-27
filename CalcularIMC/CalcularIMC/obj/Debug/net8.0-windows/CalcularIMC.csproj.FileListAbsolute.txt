@@ -1,0 +1,16 @@
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.exe
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.deps.json
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.runtimeconfig.json
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.dll
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.pdb
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.Form1.resources
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.csproj.GenerateResource.cache
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.AssemblyInfoInputs.cache
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.AssemblyInfo.cs
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.dll
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\refint\CalcularIMC.dll
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.pdb
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.genruntimeconfig.cache
+C:\Users\Malvadão\source\repos\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\ref\CalcularIMC.dll
