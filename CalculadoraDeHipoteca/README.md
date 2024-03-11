@@ -19,7 +19,7 @@ O Projeto foi desenvolvido com a turma TI21, tendo como objetivo:
 ---
 `String usada para definir o formato do tempo no cronômetro`
 
-`float.Parse`
+> float.Parse
 ---
 
 
